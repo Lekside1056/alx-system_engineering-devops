@@ -1,1 +1,25 @@
-Lekside1056/alx-system_engineering-devops
+[master (root-commit) 42390ff] Lekside1056/alx-system_engineering-devops
+ 23 files changed, 40 insertions(+)
+ create mode 100755 0x00-shell_basics/0-current_working_directory
+ create mode 100755 0x00-shell_basics/1-listit
+ create mode 100755 0x00-shell_basics/10-back
+ create mode 100755 0x00-shell_basics/100-lets_move
+ create mode 100755 0x00-shell_basics/101-clean_emacs
+ create mode 100755 0x00-shell_basics/102-tree
+ create mode 100755 0x00-shell_basics/103-commas
+ create mode 100755 0x00-shell_basics/11-lists
+ create mode 100755 0x00-shell_basics/12-file_type
+ create mode 100755 0x00-shell_basics/13-symbolic_link
+ create mode 100755 0x00-shell_basics/14-copy_html
+ create mode 100755 0x00-shell_basics/2-bring_me_home
+ create mode 100755 0x00-shell_basics/3-listfiles
+ create mode 100755 0x00-shell_basics/4-listmorefiles
+ create mode 100755 0x00-shell_basics/5-listfilesdigitonly
+ create mode 100755 0x00-shell_basics/6-firstdirectory
+ create mode 100755 0x00-shell_basics/7-movethatfile
+ create mode 100755 0x00-shell_basics/8-firstdelete
+ create mode 100755 0x00-shell_basics/9-firstdirdeletion
+ create mode 100644 0x00-shell_basics/README.md
+ create mode 100644 0x00-shell_basics/master
+ create mode 100755 0x00-shell_basics/school.mgc
+ create mode 100644 README.md
