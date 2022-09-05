@@ -1,0 +1,20 @@
+#!/bin/bash
+
+
+
+FILENAME="alt"
+
+
+
+LINES=$(cat $FILENAME)
+
+
+
+for LINE in $LINES
+	    
+do
+    
+    git add $LINE
+    git commit -m "$LINE added"
+    git pushselect 
+done
